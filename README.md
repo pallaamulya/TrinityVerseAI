@@ -379,7 +379,7 @@ Thanks to the developers and communities who maintain these tools and make AI ex
 
 **Project:** TrinityVerseAI
 
-**GitHub:** [Add your GitHub repository URL here.](https://github.com/pallaamulya/TrinityVerseAI)
+**GitHub:**  https://github.com/pallaamulya/TrinityVerseAI
 
 ---
 
